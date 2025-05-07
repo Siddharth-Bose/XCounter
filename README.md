@@ -68,16 +68,16 @@ Count: -3
 ---
 
 ## 🖥️ Screenshot (Initial Render)
-![XCounter - Initial Render](public/screenshot.png)
+![XCounter - Initial Render](https://github.com/Siddharth-Bose/XCounter/blob/main/public/initial%20render.png)
 
 ## 🖥️ Screenshot (After Clicking Increment 3 Times)
-![XCounter - Increment](public/screenshot.png)
+![XCounter - Increment](https://github.com/Siddharth-Bose/XCounter/blob/main/public/increment%203.png)
 
 ## 🖥️ Screenshot (After Clicking Decrement 3 Times)
-![XCounter - Decrement](public/screenshot.png)
+![XCounter - Decrement](https://github.com/Siddharth-Bose/XCounter/blob/main/public/decrement%203.png)
 
 ## 🖥️ Screenshot (After Clicking Decrement 3 Times Again, allows count to be negative)
-![XCounter - Allow Negative](public/screenshot.png)
+![XCounter - Allow Negative](https://github.com/Siddharth-Bose/XCounter/blob/main/public/allow-negative.png)
 
 ## 📁 Folder Structure
 
